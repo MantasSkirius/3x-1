@@ -19,6 +19,9 @@ class trysXvienas
   }
   
   protected function skaiciuotiSeka($testuojamasSkaicius){
+        /*
+        Ši funkcija atlieka 3x+1 seka vienam skaičiui. Gražina didžiausią pasiektą vertę ir kiek iteracijų užtruko pasiekti vienetą.
+        */
         $iteracija = 0;
         $didziausiaVerte = $testuojamasSkaicius;
         while($testuojamasSkaicius != 1){
