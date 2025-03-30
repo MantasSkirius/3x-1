@@ -34,6 +34,7 @@ class trysXvienas
                 $didziausiaVerte = $testuojamasSkaicius;
             }
             $iteracija++;
+            echo $testuojamasSkaicius." ".$iteracija."<br>";
         }
         $iteracija;
         return [$didziausiaVerte, $iteracija];
