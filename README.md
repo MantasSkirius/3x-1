@@ -1,4 +1,4 @@
-#3x+1 skaičiuotuvas
+# 3x+1 skaičiuotuvas
 Ši programa apskaičiuos 3x+1 (*Collatz conjecture*) problemos vertes nurodytose ribose.  
 Ribas vartotojas iveda į HTML formą.  
 Programos metodai:  
